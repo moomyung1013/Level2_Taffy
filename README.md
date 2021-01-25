@@ -267,7 +267,7 @@ if(isCall != 1 && (callDo!=true && callDo2!=true))
 1. 세 개의 창구   
 ![simulationThree](https://github.com/moomyung1013/Level2_Taffy/blob/master/img/three.png?raw=true)   
 창구가 세 개일 경우 보이는 화면이다. 맨 아래의 서비스 창구가 3개임을 확인할 수 있다.   
- - 손님 입장
+ - 손님 입장   
  ![clientCome](https://github.com/moomyung1013/Level2_Taffy/blob/master/img/clientCome.png?raw=true)   
  손님이 입장할 시, 가운데 대기 패널에 고객 아이콘이 생성된다.   
  - 서비스 중   
