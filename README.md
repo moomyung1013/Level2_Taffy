@@ -214,7 +214,7 @@ if((serviceDo==true) && (waitPerson.peek().serviceTime==timeS))
 }
 ```
 1. Simulate2.class
-  - 손님 입장
+  - 손님 입장   
 ```java
 /* 전화가 오지 않았고, 전화 서비스도 수행중이 아니라면 */
 if(isCall != 1 && (callDo!=true && callDo2!=true))
